@@ -59,3 +59,6 @@ For any inquiries or further discussion about this project or my skills as an iO
 [📧 Mail](mailto:ashrafhatia@gmail.com ) : ashrafhatia@gmail.com 
 
 ## 🎥 App Recording
+
+https://github.com/AshrafHatia/onboarding-process-swiftui/assets/65664955/a2a673e5-db21-4942-9afd-4d90c78f622c
+
